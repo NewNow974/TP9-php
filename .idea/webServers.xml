@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="41f516b0-e47f-4acc-80e0-372965cdb246" name="WSL" url="http://localhost/phpCIR2/TP9-php">
+        <fileTransfer mountedRoot="C:\Users\Anselmet\Desktop\phpCIR2" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
